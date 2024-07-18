@@ -1,4 +1,4 @@
-# Simple Python
+# Simple Python | Heart Disease Prediction
 
 __IDE: Anaconda Navigator | Spyder__
 
